@@ -1,0 +1,19 @@
+.container__block {
+  background-color: antiquewhite;
+  padding: 10px;
+  text-align: center;
+}
+
+.info-block {
+  font-size: 14px;
+  height: 90px;
+  border-radius: 5px;
+}
+
+.header-block {
+  background-color: burlywood;
+  box-shadow: 4px 4px 4px;
+  border-radius: 5px;
+  padding: 2px;
+  text-align: center;
+}
